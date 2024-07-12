@@ -1,7 +1,13 @@
 # TronGame
+
+---Premise of game---
+
 A recreation of the classic multiplayer (up to 8 players) Tron game wherein players move around a 2d map leaving behind a trail. Any player touching any player's trail is destroyed.
 
 Game options: Shrinking screen (with four different speeds); temporary invincibility power ups.
+
+
+---info to launch---
 
 Uses Android Studio, Libgdx, and Gradle.
 
@@ -12,7 +18,7 @@ Java SDK: 13
 
 Warning: Does not curremtly run on M1 mac chips :( 
 
-Images of the game:
+---Images of the game---
 
 Main menu screen: https://github.com/user-attachments/assets/2c768efe-8d72-4475-9685-fa8b523a8ea9
 
