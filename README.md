@@ -15,9 +15,13 @@ Warning: Does not curremtly run on M1 mac chips :(
 Images of the game:
 
 Main menu screen: https://github.com/user-attachments/assets/2c768efe-8d72-4475-9685-fa8b523a8ea9
+
 Preferences screen: https://github.com/user-attachments/assets/20abdf2a-e0d6-4e8e-bd46-2b353d22ba41
+
 Controls screen: https://github.com/user-attachments/assets/10059259-e83d-44bc-bfea-67dc1e8f63be
+
 Game options screen: https://github.com/user-attachments/assets/a885b68a-97f1-4648-a792-5a9dfeb97e67
+
 Example game screen: https://github.com/user-attachments/assets/1c6dc010-64ed-453e-9e68-e7217e9b8728
 
 
