@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b63ba8c0-b244-44c5-9ebc-a4db21f95dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/android/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/invinsibility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p1trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p2trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p3trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p4trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p5trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p6trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p7trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/p8trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/powerup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/invinsibility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/p8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/rawAssets/powerup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/skin/font-big-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/skin/font-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/skin/glassy-ui.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/skin/glassy-ui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/skin/glassy-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/sprites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/invinsible.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p1trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p2trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p3trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p4trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p5trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p6trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p7trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/p8trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/assets/svgAssets/powerup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/mygdx/trongame/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/mygdx/trongame/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/apk_list/debug/mainApkListPersistenceDebug/apk-list.gson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/out/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0uuv4fClQb7on3Lhnk0Y8V2iMdc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P+HnnvtWK3ej7x4dY8ZfRFdmKAQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ghgOVclsj4EPoJG3c24MjeHKPmg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/q1ZgZN2jiuCqg0PCwfuo52iWOD0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/0uuv4fClQb7on3Lhnk0Y8V2iMdc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/P+HnnvtWK3ej7x4dY8ZfRFdmKAQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/ghgOVclsj4EPoJG3c24MjeHKPmg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/q1ZgZN2jiuCqg0PCwfuo52iWOD0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/RjF96Q1a7pss6y2dl7ljgBtDJS8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/oPSqFgesOQWXxg76GMnq0oA5sKc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/AndroidLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/R$color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/R$style.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/mygdx/trongame/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/badlogic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/skin/font-big-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/skin/font-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/skin/glassy-ui.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/skin/glassy-ui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_assets/debug/out/skin/glassy-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/arm64-v8a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/arm64-v8a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/armeabi-v7a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/armeabi-v7a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/armeabi/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/armeabi/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/x86/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/x86/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/x86_64/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_jni_libs/debug/out/x86_64/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/metadata_feature_manifest/debug/processDebugManifest/metadata-feature/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher_foreground.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/signing_config/debug/out/signing-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/AndroidLauncher.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/BuildConfig.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/R$color.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/R$drawable.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/R$string.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/R$style.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/0/com/mygdx/trongame/R.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/arm64-v8a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/arm64-v8a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/outputs/apk/debug/android-debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/outputs/apk/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/arm64-v8a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/arm64-v8a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/armeabi-v7a/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/armeabi-v7a/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/armeabi/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/armeabi/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/x86/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/x86/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/x86_64/libgdx-box2d.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/x86_64/libgdx.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-anydpi-v26/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/drawable-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/values/color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/com/mygdx/trongame/AndroidLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/ControlsScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/ControlsScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/EndScreen_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/EndScreen_2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/EndScreen_2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/EndScreen_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/LoadingScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MainScreen_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MenuScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MenuScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MenuScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MenuScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/MenuScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/Orchestrator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/PreferencesScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/SetUpScreen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/classes/java/main/com/mygdx/trongame/appPreferences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/TronGame.gwt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/ControlsScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/EndScreen_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/LoadingScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/MainScreen_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/MenuScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/Orchestrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/PreferencesScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/SetUpScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/com/mygdx/trongame/appPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/classes/java/main/com/mygdx/trongame/desktop/DesktopLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/libs/desktop-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/invinsibility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p1trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p2trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p3trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p4trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p5trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p6trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p7trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/p8trail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/powerup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/invinsibility.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/p8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/rawAssets/powerup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/skin/font-big-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/skin/font-export.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/skin/glassy-ui.atlas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/skin/glassy-ui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/skin/glassy-ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/sprites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/invinsible.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p1trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p2trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p3trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p4trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p5trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p6trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p7trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/p8trail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/resources/main/svgAssets/powerup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop/src/com/mygdx/trongame/desktop/DesktopLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/com/mygdx/trongame/GdxDefinition.gwt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/com/mygdx/trongame/GdxDefinitionSuperdev.gwt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/src/com/mygdx/trongame/client/HtmlLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/soundmanager2-jsmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/soundmanager2-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/webapp/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Info.plist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/build/classes/java/main/com/mygdx/trongame/IOSLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/build/libs/ios-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/app-store-icon-1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-app-icon-76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-app-icon-76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-notifications-icon-20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-notifications-icon-20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-pro-app-icon-83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-settings-icon-29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-settings-icon-29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-spotlight-icon-40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/ipad-spotlight-icon-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-app-icon-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-app-icon-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-notification-icon-20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-notification-icon-20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-spotlight-icon-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-spotlight-icon-40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-spotlight-settings-icon-29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/AppIcon.appiconset/iphone-spotlight-settings-icon-29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/Logo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/Logo.imageset/libgdx@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/Logo.imageset/libgdx@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/data/Media.xcassets/Logo.imageset/libgdx@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/robovm.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/robovm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/src/com/mygdx/trongame/IOSLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/user/.android/avd/Pixel_Fold_API_35.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2j8ZcazS7pMNQe6HwM7P6kfWY9e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.android.executor": "Run",
+    "Application.Desktop Launcher.executor": "Run",
+    "Application.DesktopLauncher.executor": "Run",
+    "Gradle.TronGame:desktop [:desktop:DesktopLauncher.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "external.system.has.shared.sources": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/user/AndroidStudioProjects/TronGame",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DesktopLauncher">
+    <configuration name="android" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="TronGame.android.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesktopLauncher" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="Android API 30 Platform" />
+      <option name="MAIN_CLASS_NAME" value="com.mygdx.trongame.desktop.DesktopLauncher" />
+      <module name="TronGame.desktop.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.android" />
+      <item itemvalue="Application.DesktopLauncher" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b63ba8c0-b244-44c5-9ebc-a4db21f95dd5" name="Changes" comment="" />
+      <created>1720770746836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720770746836</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,131 @@
+sprites.png
+size: 238, 1071
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+invinsibility
+  rotate: false
+  xy: 0, 0
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 119, 0
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p1trail
+  rotate: false
+  xy: 0, 119
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 119, 119
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p2trail
+  rotate: false
+  xy: 0, 238
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 119, 238
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p3trail
+  rotate: false
+  xy: 0, 357
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p4
+  rotate: false
+  xy: 119, 357
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p4trail
+  rotate: false
+  xy: 0, 476
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p5
+  rotate: false
+  xy: 119, 476
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p5trail
+  rotate: false
+  xy: 0, 595
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p6
+  rotate: false
+  xy: 119, 595
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p6trail
+  rotate: false
+  xy: 0, 714
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p7
+  rotate: false
+  xy: 119, 714
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p7trail
+  rotate: false
+  xy: 0, 833
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p8
+  rotate: false
+  xy: 119, 833
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+p8trail
+  rotate: false
+  xy: 0, 952
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+powerup
+  rotate: false
+  xy: 119, 952
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
